@@ -32,7 +32,7 @@ This is a simple question-and-answer game, built with NetBeans IDE and using J.D
 
 The questions appear on screen alongside the designed letter and condition for the answer. The conditions can be 'Begins with', 'Contains' or 'Ends with'. For example:
 
-Condition: 'Begins with'
+Condition: Begins with
 Letter: D
 Question: It is said to be man's best friend.
 Answer: Dog
