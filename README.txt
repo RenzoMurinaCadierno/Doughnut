@@ -1,5 +1,5 @@
 # Doughnut
-My first formal attempt at programming (Java). It's a basic but fully customizable trivia game. It's documented in the help files accesible in the main GUI, and the code is completely commentated. Free and open-source, use it as you wish. But please, don't forget to mention me as the author, as I'm trying to launch my programming career little by little, and that helps me lots! Thanks for reading!
+My first formal attempt at programming (Java - J.D.K. 8.0). It's a basic but fully customizable trivia game. It's documented in the help files accesible in the main GUI, and the code is completely commentated. Free and open-source, use it as you wish. But please, don't forget to mention me as the author, as I'm trying to launch my programming career little by little, and that helps me lots! Thanks for reading!
 
 
                               ::::::::::
@@ -28,7 +28,7 @@ My first formal attempt at programming (Java). It's a basic but fully customizab
 1. Insctructions
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-This is a simple question-and-answer game.
+This is a simple question-and-answer game, built with NetBeans IDE and using J.D.K. 8.0.
 
 The questions appear on screen alongside the designed letter and condition for the answer. The conditions can be 'Begins with', 'Contains' or 'Ends with'. For example:
 
