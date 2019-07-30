@@ -122,7 +122,7 @@ The category drop menu if empty by default. To fill it up, you can generate the 
 The program is able to generate default categories, which are included into the code. To do so, you need to click on the Generate/reload default categories button. Doing so will trigger
 their creation, and they will automatically appear in the drop menu, which is where they have to be selected to play a quick game.
 
-Most sets in the default categories were extracted from LaffGaff's website (http://laffgaff.com/free-trivia-questions-and-answers/), I've only edited and translated them to Spanish and added some, additional sets to complete the category. So, full credits to them.
+Most sets in the default categories were extracted from LaffGaff's website (http://laffgaff.com/free-trivia-questions-and-answers/), I've only edited and translated them to Spanish and added some additional sets to complete the category. So, full credits to them.
 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
