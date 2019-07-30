@@ -98,18 +98,12 @@ If you select OK, then the game will begin. Keep in mind that the timer will sta
 
 Rules to add sets of Letter, condition, question and answer:
 
-> You cannot add empty fields or only spaces to the Question and
-Answer text fields.
-> You cannot type Question or Pregunta on the Question text
-field, or Answer or Respuesta on the Answer text field. Those
-are the default values, so they are not allowed.
+> You cannot add empty fields or only spaces to the Question and Answer text fields.
+> You cannot type Question or Pregunta on the Question text field, or Answer or Respuesta on the Answer text field. Those are the default values, so they are not allowed.
 > You cannot repeat previously added letters.
-> You cannot repeat any combination of: question and condition,
-answer and condition, or question and answer.
-> The questions have a limit of 100 characters each, and the
-answers, 20.
-> If you choose the condition 'Contains', then the typed answer
-cannot begin with or end with the specified letter.
+> You cannot repeat any combination of: question and condition, answer and condition, or question and answer.
+> The questions have a limit of 100 characters each, and the answers, 20.
+> If you choose the condition 'Contains', then the typed answer cannot begin with or end with the specified letter.
 > The answers must respect the selected letter and condition.
 
 
