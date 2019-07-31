@@ -30,6 +30,10 @@ My first formal attempt at programming (Java - J.D.K. 8.0). It's a basic but ful
 
 This is a simple question-and-answer game, built with NetBeans IDE and using J.D.K. 8.0.
 
+So, first things first, if you want to play the game, you need to make sure to have Java Runtime Environment installed in your device (download link: https://www.java.com/en/download/). Then, just double click on the .jar file inside the "dist" folder and done! You have just launched the main GUI!
+
+Now, for the in-depth instructions:
+
 The questions appear on screen alongside the designed letter and condition for the answer. The conditions can be 'Begins with', 'Contains' or 'Ends with'. For example:
 
 Condition: Begins with
